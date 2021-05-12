@@ -27,10 +27,6 @@ issue books to user
 view data of users
 
 list of books
-
-fine calculation
-
-take fine and clear fine
                
                
                
