@@ -1,4 +1,25 @@
-                 Library Management System
+               Project ----LIBRARY MANAGEMENT SYSTEM
+               
+Team Size - 5 Members
+Modules---4 (Admin login, User login, Admin operations, User Operations)
+Admin Login
+Add , Update and delete books
+add user and create user
+(first need to signup)
+------------------------------------------->Shivani
+Admin:-------------------------------------> Sai Krishna, Abhijeet
+Data Insertions in database
+accept the issue request
+accept the return request
+issue books to user
+view data of users
+list of books
+fine calculation
+take fine and clear fine
+               
+               
+               
+               Library Management System
 
 
 Project details:
