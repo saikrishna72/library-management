@@ -15,13 +15,21 @@ add user and create user
 ------------------------------------------->Shivani
 
 Admin:-------------------------------------> Sai Krishna, Abhijeet
+
 Data Insertions in database
+
 accept the issue request
+
 accept the return request
+
 issue books to user
+
 view data of users
+
 list of books
+
 fine calculation
+
 take fine and clear fine
                
                
