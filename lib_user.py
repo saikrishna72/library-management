@@ -1,3 +1,5 @@
+# User interface
+
 import tkinter
 from tkinter import *
 import pymysql
