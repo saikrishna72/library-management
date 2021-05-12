@@ -1,3 +1,5 @@
+# Library Management System Full Interface
+
 from tkinter import *
 from PIL import ImageTk
 from tkinter import ttk
